@@ -1,2 +1,2 @@
-# iLifeStream
-iOS streaming App that turns your mobile into a security camera! 
+# iLifeStream - Web Server 
+web server for iOS app that lets you turn your mobile phone into security footage camera! 
