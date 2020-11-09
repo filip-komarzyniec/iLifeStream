@@ -35,11 +35,16 @@
     <main role="main" class="container">
       <div class="row">
         <div class="col">
-            <h1>iLifeStream App</h1>
+            <div class="video-wrapper column-6">
+                <video id="video" class="player" controls crossorigin disablePictureInPicture>
+                </video>
+            </div>
+            <div id="video-info" class="video-info column-6">
+                <p>Informacje o playbacku</p>
+            </div>
         </div>
       </div>
     </main>
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
